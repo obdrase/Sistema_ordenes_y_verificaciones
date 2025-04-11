@@ -16,4 +16,4 @@ Este programa es una posible solcion para lo que se necesita utilizando la estra
 
 #### [Video explicativo](https://www.youtube.com/watch?v=l18ogCOa0vY)
 
-#### [Video explicativo](https://colab.research.google.com/drive/135vaS2YjSSRANAEl0BRc_DKRJAYWucF0?usp=sharing)
+#### [Colab](https://colab.research.google.com/drive/135vaS2YjSSRANAEl0BRc_DKRJAYWucF0?usp=sharing)
